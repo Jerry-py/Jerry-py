@@ -1,4 +1,4 @@
-### Hi there, I'm Jerry - aka [Jerry.py][website] 👋
+### Hi there, I'm Jerry - aka [Jerry.py][github] 👋
 
 <img align="right" alt="Jerry.py's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Jerry-py&show_icons=true&hide_border=true&theme=radical"/>
 
