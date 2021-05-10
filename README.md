@@ -28,7 +28,7 @@
 [reddit]: https://www.reddit.com/user/Jerrypython
 
 
-<a href="https://github.com/jstrieb/github-stats">
+<a href="https://github.com/Jerry-py/Github-stats">
 
 ![](https://github.com/Jerry-py/Github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/Jerry-py/Github-stats/blob/master/generated/languages.svg)
