@@ -24,14 +24,11 @@ Discord: Jerry.py#7611
 [twitter]: https://twitter.com/Jerrypython
 [reddit]: https://www.reddit.com/user/Jerrypython
 
-<details>
-  <summary>:zap: Jerry.py's GitHub Stats</summary>
 
 <a href="https://github.com/jstrieb/github-stats">
 
 ![](https://github.com/Jerry-py/Github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/Jerry-py/Github-stats/blob/master/generated/languages.svg)
 </a>
-</details>
 
 
