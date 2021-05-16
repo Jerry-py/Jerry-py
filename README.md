@@ -33,5 +33,6 @@
 ![](https://github.com/Jerry-py/Github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/Jerry-py/Github-stats/blob/master/generated/languages.svg)
 </a>
+[![trophy](https://github-profile-trophy.vercel.app/?username=Jerry-py&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
