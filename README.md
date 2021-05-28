@@ -1,7 +1,6 @@
 ### Hi there, I'm Jerry - aka [<a href="https://github.com/Jerry-py">Jerry.py</a>] 👋
 
-<img align="right" alt="Jerry.py's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Jerry-py&show_icons=true&hide_border=true&theme=radical"/>
-
+<img align="right" alt="Jerry.py's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Jerry-py&show_icons=true&hide_border=true&theme=radical"/>
 
 
 ## I'm a Student Developer!!
