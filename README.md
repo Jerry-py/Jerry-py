@@ -15,10 +15,10 @@
 [<img align="left" alt="cws | Twitter" width="22px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-4.png" />][twitter]
 [<img align="left" alt="cws | Reddit" width="22px" src="https://external-preview.redd.it/iDdntscPf-nfWKqzHRGFmhVxZm4hZgaKe5oyFws-yzA.png?auto=webp&s=38648ef0dc2c3fce76d5e1d8639234d8da0152b2" />][reddit]
 <br />
----
+
 ### Discord: Jerry.py#7611
 ### Email: pusheen9160@gmail.com
----
+
 ### Languages I Know:
 - 🐍 Python
 - 💻 HTML/CSS
