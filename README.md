@@ -1,7 +1,7 @@
 ### Hi there, I'm Jerry - [<a href="https://github.com/Jerry-py">Jerry.py</a>] 👋
-
-<img align="right" alt="Jerry.py's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Jerry-py&show_icons=true&hide_border=true&theme=radical"/>
-
+<img align="left" alt="Jerry.py's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Jerry-py&show_icons=true&hide_border=true&theme=radical"/>
+<br>
+<img align="right-right" alt="Jerry.py's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jerry-py&langs_count=10"/>
 
 ## I'm a Student Developer!!
 
@@ -16,16 +16,17 @@
 [<img align="left" alt="cws | Reddit" width="22px" src="https://external-preview.redd.it/iDdntscPf-nfWKqzHRGFmhVxZm4hZgaKe5oyFws-yzA.png?auto=webp&s=38648ef0dc2c3fce76d5e1d8639234d8da0152b2" />][reddit]
 <br />
 
+
 ### Discord: Jerry.py#7611
 ### Email: pusheen9160@gmail.com
 
 ### Languages I Know:
 - 🐍 Python
 - 💻 HTML/CSS
----
 
 [twitter]: https://twitter.com/Jerrypython
-[reddit]: https://www.reddit.com/user/Jerrypython
+[reddit]: https://www.reddit.com/user/Jerrypython  
+
 
 
 <a href="https://github.com/Jerry-py/Github-stats">
