@@ -5,10 +5,10 @@
 
 ## I'm a Student Developer!!
 
-- 🔭 I’m currently working on a discord bot
+- 🔭 I’m currently bored
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: To make my own discord bot
+- 🥅 2021 Goals: Help people
 - ⚡ Fun fact: I am afraid of heights
 ### Connect with me:
 
@@ -17,8 +17,8 @@
 <br />
 
 
-### Discord: Jerry.py#7611
-### Email: pusheen9160@gmail.com
+### Discord: Jerry.py#4249
+### Email: theofficialjerrypy@gmail.com
 
 ### Languages I Know:
 - 🐍 Python
@@ -34,6 +34,6 @@
 ![](https://github.com/Jerry-py/Github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/Jerry-py/Github-stats/blob/master/generated/languages.svg)
 </a>
-[![trophy](https://github-profile-trophy.vercel.app/?username=Jerry-py&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
