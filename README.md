@@ -17,8 +17,9 @@
 <br />
 
 
-### Discord: Jerry.py#4249
-### Email: theofficialjerrypy@gmail.com
+### Discord: 
+![](https://discord.c99.nl/widget/theme-4/827660621662257162.png)
+
 
 ### Languages I Know:
 - 🐍 Python
