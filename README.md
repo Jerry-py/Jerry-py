@@ -5,10 +5,10 @@
 
 ## I'm a Student Developer!!
 
-- 🔭 I’m currently bored
+- 🔭 I’m currently working on Conchbot
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Help people
+- 🥅 2022 Goals: Finish ConchBot
 - ⚡ Fun fact: I am afraid of heights
 ### Connect with me:
 
