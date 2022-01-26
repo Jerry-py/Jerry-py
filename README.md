@@ -10,6 +10,11 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Finish ConchBot
 - ⚡ Fun fact: I am afraid of heights
+
+### How much I code
+
+[![](https://img.shields.io/endpoint?style=for-the-badge&url=https://codetime-api.datreks.com/badge/3461?logoColor=white%26project=%26recentMS=0%26showProject=false)](https://codetime.datreks.com/)
+
 ### Connect with me:
 
 [<img align="left" alt="cws | Twitter" width="22px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-4.png" />][twitter]
