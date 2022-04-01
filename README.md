@@ -3,6 +3,11 @@
 <br>
 <img align="right-right" alt="Jerry.py's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jerry-py&langs_count=10&show_icons=true&hide_border=true&theme=radical"/>
 
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jerry-py&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Github streaks">
+</div>
+
+
 ## I'm a Student Developer!!
 
 - 🔭 I’m currently working on Conchbot
@@ -20,6 +25,7 @@
 [<img align="left" alt="cws | Twitter" width="22px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-4.png" />][twitter]
 [<img align="left" alt="cws | Reddit" width="22px" src="https://external-preview.redd.it/iDdntscPf-nfWKqzHRGFmhVxZm4hZgaKe5oyFws-yzA.png?auto=webp&s=38648ef0dc2c3fce76d5e1d8639234d8da0152b2" />][reddit]
 <br />
+
 
 
 ### Discord: 
