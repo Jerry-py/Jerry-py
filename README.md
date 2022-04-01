@@ -20,10 +20,6 @@
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Jerry-py"/></a>
   <a href="https://github.com/Jerry-py?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/Jerry-py?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  
-<p align="center">
-<img align="left" alt="Jerry.py's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Jerry-py&show_icons=true&hide_border=true&theme=radical"/>
-<br>
 
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jerry-py&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Github streaks">
@@ -48,6 +44,16 @@
   <a href=https://www.adobe.com/products/photoshop.html""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="70" width="70"/></a>
 </p>
 
-## Activity Graph
+## Github Stats
+
+<details> 
+  <summary>💻 GitHub Profile Stats</summary>
+  <br/>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Jerry-py's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Jerry-py&show_icons=true&hide_border=true&theme=radical" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jerry-py&langs_count=5&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</details>
+
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Jerry-py's Activity Graph" src="https://github-profile-activity-graph.herokuapp.com/graph/?username=Jerry-py&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
