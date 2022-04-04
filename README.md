@@ -26,15 +26,18 @@
 </div>
 </p>
 
-## Languages
+## Status
+<p align="center">
+    <img alt="status" title="The discord status" src="https://discord.c99.nl/widget/theme-2/827660621662257162.png">
+</p>
+
+## Languages & Framework/Softwares
 
 <p align="center"> 
   <a href="https://python.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="100" width="100"/></a>
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="100" width="100"/></a>
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="100" width="100"/></a>
 </p>
-
-## Framework and Softwares
 
 <p align="center"> 
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="70" width="70"/></a>
@@ -57,3 +60,15 @@
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Jerry-py's Activity Graph" src="https://github-profile-activity-graph.herokuapp.com/graph/?username=Jerry-py&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
+## Info
+
+<table>
+<tr><th colspan="2"><b>Contact Me</b></th></tr>
+  <tr><td><b>E-Mail</b></td><td><b><a href="mailto:theofficialjerrypy@gmail.com">Theofficialjerrypy@gmail.com</a></b></td></tr>
+  <tr><td><b>Discord</b></td><td><b><a href="https://discord.com/users/827660621662257162">JerryDotPy#4249</a></b></td></tr>
+  <tr><td><b>Twitter</b></td><td><b><a href="https://twitter.com/Jerrypython">Jerrypython</b></a></td></tr>
+  <tr><td><b>Youtube</b></td><td><b><a href="https://www.youtube.com/channel/UCXffPa4JMXZPRsrDdV759sA">Jerry-py</b></a></td></tr>
+  <tr><td><b>Reddit</b></td><td><b><a href="https://www.reddit.com/user/Jerry-py">Jerry-py</b></a></td></tr>
+</table>
+
