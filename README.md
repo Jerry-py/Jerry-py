@@ -21,6 +21,9 @@
   <a href="https://github.com/Jerry-py?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/Jerry-py?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 
+![github-user-contribution](https://github.com/Jerry-py/Jerry-py/assets/64660183/3e0a6dc8-1d92-46b2-81a9-24ab2702ffc6)
+
+
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jerry-py&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Github streaks">
 </div>
@@ -60,15 +63,4 @@
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Jerry-py's Activity Graph" src="https://github-profile-activity-graph.herokuapp.com/graph/?username=Jerry-py&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
-## Info
-
-<table>
-<tr><th colspan="2"><b>Contact Me</b></th></tr>
-  <tr><td><b>E-Mail</b></td><td><b><a href="mailto:theofficialjerrypy@gmail.com">Theofficialjerrypy@gmail.com</a></b></td></tr>
-  <tr><td><b>Discord</b></td><td><b><a href="https://discord.com/users/827660621662257162">JerryDotPy#4249</a></b></td></tr>
-  <tr><td><b>Twitter</b></td><td><b><a href="https://twitter.com/Jerrypython">Jerrypython</b></a></td></tr>
-  <tr><td><b>Youtube</b></td><td><b><a href="https://www.youtube.com/channel/UCXffPa4JMXZPRsrDdV759sA">Jerry-py</b></a></td></tr>
-  <tr><td><b>Reddit</b></td><td><b><a href="https://www.reddit.com/user/Jerry-py">Jerry-py</b></a></td></tr>
-</table>
 
