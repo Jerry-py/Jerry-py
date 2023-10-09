@@ -29,11 +29,6 @@
 </div>
 </p>
 
-## Status
-<p align="center">
-    <img alt="status" title="The discord status" src="https://discord.c99.nl/widget/theme-2/827660621662257162.png">
-</p>
-
 ## Languages & Framework/Softwares
 
 <p align="center"> 
